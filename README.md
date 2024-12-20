@@ -15,3 +15,8 @@ bun dev
 ```
 
 URL - https://login-logout-next-app.vercel.app/
+
+Login with 
+username - emilys
+email - emily.johnson@x.dummyjson.com
+password - emilyspass
